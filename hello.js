@@ -1,5 +1,5 @@
-function hello() {
-  return "Hello world!";
+function hello(input="") {
+  return `Hello ${input}!`;
 }
 
 module.exports = hello;
