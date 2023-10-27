@@ -1,5 +1,7 @@
-function hello(input="world") {
-  return `Hello ${input}!`;
+function hello() {
+  test = "Hello world!";
+  console.log( test ) ;
+  return test;
 }
 
 module.exports = hello;
