@@ -1,4 +1,4 @@
-function hello(input="") {
+function hello(input="world") {
   return `Hello ${input}!`;
 }
 
