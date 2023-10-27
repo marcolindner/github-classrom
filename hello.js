@@ -1,6 +1,6 @@
 function hello() {
   test = "Hello world!";
-  console.log( "was anderes" ) ;
+  console.log( test ) ;
   return test;
 }
 
